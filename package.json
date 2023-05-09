@@ -1,0 +1,21 @@
+{
+  "name": "colorado-sb23-303-tax-calculator",
+  "version": "1.0.0",
+  "description": "A tax calculator to compare the impact of Colorado's SB23-303 bill on single family residential property",
+  "main": "calc.js",
+  "scripts": {
+  },
+  "keywords": [
+    "tax",
+    "colorado",
+    "property",
+    "SB23-303",
+    "calculator"
+  ],
+  "author": "Jamison Griffith",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
